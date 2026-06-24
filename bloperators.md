@@ -60,7 +60,15 @@ THE NULLISH COALESCING OPERATOR is incredibly useful in situations where NULL or
 
 EXAMPLE OF A USER'S PREFERENCE SETTINGS;
 
-const 
+const userSettings = {
+    theme: null,
+    volume: 0,
+    notifications: false,
+};
+
+let theme = userSettings.theme ?? 'light';
+console.log(theme) // light. ( In the example, we have an object called userSettings that contains theme, volume and notifications properties. We're accessing the theme using the dot notation like userSettings.theme.
+But since the user's theme is currently set to null, then the string LIGHT will be logged to the console.)
 
 
 
