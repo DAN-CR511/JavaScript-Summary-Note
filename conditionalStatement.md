@@ -1,4 +1,4 @@
-Conditional Statement is used for making decisionin javascript.They allow your program to flow in a particular way based on certain conditions.
+Conditional Statement is used for making decision in javascript.They allow your program to flow in a particular way based on certain conditions.
 
 Ternary Operator lets you control the flow of your code.
 
