@@ -4,7 +4,7 @@ The .toFixed() method takes one optional argument, which is the number of digits
 EXAMPLE OF HOW .toFixed() works:
 
 let num = 3.14567;
-console.log(num.toFixed(2));   //  "3.14"
+console.log(num.toFixed(2));   //  "3.15"
 In this example we're limiitng the number of decimal place to 2.
 
 NOTE:  The .toFixed method returns a string not a number. This is because the method is primarily intended for formatting numbers for display, not for further calculations..
