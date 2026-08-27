@@ -1,5 +1,5 @@
 The built-in MATH OBJECT are used to tackle more complex challenges.
-It provides variety of methods to make it eaisers to perform advanced calculations and manipilate numbers.
+It provides variety of methods to make it eaisers to perform advanced calculations and manipulate numbers.
 
 
 COMMON METHOD OF MATH.OBJECT
