@@ -8,7 +8,7 @@ there 3 most common Binary Logical Operators, which are;
 3. Nullish coalescing operator.
 
  1. Logical AND Operator is represented by (&&):
- it checks if both operand are true and return a result. if both operand are truthy, it returns the secong value...
+ it checks if both operand are true and return a result. if both operand are truthy, it returns the second value...
 
  EXAMPLE:
 
