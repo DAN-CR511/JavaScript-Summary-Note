@@ -36,7 +36,7 @@ greet("Nick"); // Hello, Nick!
 The "Name" serves as the PARAMETERS while the strings "Alice" and "Nick" servers as the ARGUMENTS.
 
 When a FUNCTION finishes it's execution, it will always return a value. By default, the return value will be UNDEFINED.
-For your FUNCTION to return a specific value, you will need to use the to use the RETURN statement.
+For your FUNCTION to return a specific value, you will need to use the RETURN statement.
 
 EXAMPLE OF USING A RETURN STATEMENT.
 function calculateSum(num1, num2) {
